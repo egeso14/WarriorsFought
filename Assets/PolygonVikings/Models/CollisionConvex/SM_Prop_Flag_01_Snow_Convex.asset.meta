@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 628a4d9e7d7802d41be2aabd99ac1303
+timeCreated: 1579831462
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85664
+  packageName: POLYGON Vikings - Low Poly 3D Art by Synty
+  packageVersion: 1.4.0
+  assetPath: Assets/PolygonVikings/Models/CollisionConvex/SM_Prop_Flag_01_Snow_Convex.asset
+  uploadId: 735261

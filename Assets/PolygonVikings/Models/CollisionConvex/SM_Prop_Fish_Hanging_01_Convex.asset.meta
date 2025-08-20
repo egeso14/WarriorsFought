@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dd219d86282e52e498752a6cb520bf15
+timeCreated: 1579826189
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85664
+  packageName: POLYGON Vikings - Low Poly 3D Art by Synty
+  packageVersion: 1.4.0
+  assetPath: Assets/PolygonVikings/Models/CollisionConvex/SM_Prop_Fish_Hanging_01_Convex.asset
+  uploadId: 735261

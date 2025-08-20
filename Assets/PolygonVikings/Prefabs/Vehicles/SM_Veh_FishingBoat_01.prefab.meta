@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b143f01723bee1c409ca3134abb4088d
+timeCreated: 1489445230
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85664
+  packageName: POLYGON Vikings - Low Poly 3D Art by Synty
+  packageVersion: 1.4.0
+  assetPath: Assets/PolygonVikings/Prefabs/Vehicles/SM_Veh_FishingBoat_01.prefab
+  uploadId: 735261

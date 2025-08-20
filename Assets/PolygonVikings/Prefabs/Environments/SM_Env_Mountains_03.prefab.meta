@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5fe796031adccd745a945915d6ec60ac
+timeCreated: 1489445245
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85664
+  packageName: POLYGON Vikings - Low Poly 3D Art by Synty
+  packageVersion: 1.4.0
+  assetPath: Assets/PolygonVikings/Prefabs/Environments/SM_Env_Mountains_03.prefab
+  uploadId: 735261

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: febc7811f9bc5bd4e906d2a086bf152a
+timeCreated: 1579830932
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85664
+  packageName: POLYGON Vikings - Low Poly 3D Art by Synty
+  packageVersion: 1.4.0
+  assetPath: Assets/PolygonVikings/Models/CollisionConvex/SM_Bld_Wharf_01_Snow_Convex.asset
+  uploadId: 735261

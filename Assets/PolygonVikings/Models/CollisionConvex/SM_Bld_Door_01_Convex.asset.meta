@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1db02800a23211d42b0423d1ca27245e
+timeCreated: 1579832745
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85664
+  packageName: POLYGON Vikings - Low Poly 3D Art by Synty
+  packageVersion: 1.4.0
+  assetPath: Assets/PolygonVikings/Models/CollisionConvex/SM_Bld_Door_01_Convex.asset
+  uploadId: 735261

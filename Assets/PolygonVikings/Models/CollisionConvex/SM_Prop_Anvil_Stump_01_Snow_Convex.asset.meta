@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b8af8a9521c3f7642aa0bb8091110865
+timeCreated: 1579831463
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85664
+  packageName: POLYGON Vikings - Low Poly 3D Art by Synty
+  packageVersion: 1.4.0
+  assetPath: Assets/PolygonVikings/Models/CollisionConvex/SM_Prop_Anvil_Stump_01_Snow_Convex.asset
+  uploadId: 735261

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fae9a746025d20b4c89e098e3ec38c7a
+timeCreated: 1489463711
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85664
+  packageName: POLYGON Vikings - Low Poly 3D Art by Synty
+  packageVersion: 1.4.0
+  assetPath: Assets/PolygonVikings/Materials/PolyVikings_Character_Mat_Black.mat
+  uploadId: 735261

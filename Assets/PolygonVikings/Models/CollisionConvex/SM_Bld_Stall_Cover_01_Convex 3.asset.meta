@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7a4658987afa73c4bab09fef77823074
+timeCreated: 1579833099
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85664
+  packageName: POLYGON Vikings - Low Poly 3D Art by Synty
+  packageVersion: 1.4.0
+  assetPath: Assets/PolygonVikings/Models/CollisionConvex/SM_Bld_Stall_Cover_01_Convex
+    3.asset
+  uploadId: 735261

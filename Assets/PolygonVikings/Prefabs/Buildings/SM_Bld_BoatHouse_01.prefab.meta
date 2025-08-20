@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b38d75d6ed84adb448b0e83368a4d7c7
+timeCreated: 1489445245
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85664
+  packageName: POLYGON Vikings - Low Poly 3D Art by Synty
+  packageVersion: 1.4.0
+  assetPath: Assets/PolygonVikings/Prefabs/Buildings/SM_Bld_BoatHouse_01.prefab
+  uploadId: 735261

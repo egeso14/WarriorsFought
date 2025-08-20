@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1b95890dbb387364e978119942db4044
+timeCreated: 1489531017
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85664
+  packageName: POLYGON Vikings - Low Poly 3D Art by Synty
+  packageVersion: 1.4.0
+  assetPath: Assets/PolygonVikings/Materials/PolyVikings_Material_Snow.mat
+  uploadId: 735261

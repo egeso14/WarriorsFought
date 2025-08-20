@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6d5f032fa124b254285d68f9f17f65be
+timeCreated: 1579827657
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85664
+  packageName: POLYGON Vikings - Low Poly 3D Art by Synty
+  packageVersion: 1.4.0
+  assetPath: Assets/PolygonVikings/Models/CollisionConvex/SM_Wep_Spear_01_Convex.asset
+  uploadId: 735261

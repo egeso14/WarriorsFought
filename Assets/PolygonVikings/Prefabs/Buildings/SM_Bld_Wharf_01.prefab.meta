@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 229708743ceaea0468847ef2288b7982
+timeCreated: 1489445239
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85664
+  packageName: POLYGON Vikings - Low Poly 3D Art by Synty
+  packageVersion: 1.4.0
+  assetPath: Assets/PolygonVikings/Prefabs/Buildings/SM_Bld_Wharf_01.prefab
+  uploadId: 735261

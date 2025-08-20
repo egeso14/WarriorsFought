@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5f0508aba41cc974fb98ff3192932687
+timeCreated: 1579830704
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85664
+  packageName: POLYGON Vikings - Low Poly 3D Art by Synty
+  packageVersion: 1.4.0
+  assetPath: Assets/PolygonVikings/Models/CollisionConvex/SM_Prop_Wood_Sharp_01_Snow_Convex.asset
+  uploadId: 735261

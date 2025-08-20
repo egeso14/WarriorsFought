@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5d1acd63c67af82468141f87e4a368fc
+timeCreated: 1579832640
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85664
+  packageName: POLYGON Vikings - Low Poly 3D Art by Synty
+  packageVersion: 1.4.0
+  assetPath: Assets/PolygonVikings/Models/CollisionConvex/SM_Bld_Roof_Long_01_Convex
+    2.asset
+  uploadId: 735261

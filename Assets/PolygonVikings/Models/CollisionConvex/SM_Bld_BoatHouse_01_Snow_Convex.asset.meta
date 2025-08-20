@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c3bc36303a14fa74ea3e55c8c23c4073
+timeCreated: 1579829792
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85664
+  packageName: POLYGON Vikings - Low Poly 3D Art by Synty
+  packageVersion: 1.4.0
+  assetPath: Assets/PolygonVikings/Models/CollisionConvex/SM_Bld_BoatHouse_01_Snow_Convex.asset
+  uploadId: 735261
