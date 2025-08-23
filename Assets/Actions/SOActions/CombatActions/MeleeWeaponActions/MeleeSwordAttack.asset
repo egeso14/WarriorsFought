@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 655ceb065e311ea4ead88b86db0fa353, type: 3}
+  m_Name: MeleeSwordAttack
+  m_EditorClassIdentifier: Assembly-CSharp::BaseAction
+  baseDifficultyModifier: -2
+  staminaCost: 4
+  healthCost: 0
+  manaCost: 0
+  timeUnitCost: 2
+  baseMaxRange: 5
+  baseMinRange: 0
+  baseMinRadius: 0
+  distanceTargetIsMoved: 0
+  cooldown: 0
+  canOverexertStamina: 1
+  canOverexertHealth: 0
+  canOverexertMana: 0
+  canTargetAllies: 0
+  canTargetEnemies: 1
+  canTargetGround: 0
+  canTargetNonCharacters: 1
+  canTargetDeadCharacters: 0
+  requiresLineOfSight: 1
+  canTriggerReactions: 1
+  canBeUsedAsReaction: 1
+  mustBeFacingTarget: 1
+  hasCooldown: 0
+  userInterfaceIcon: {fileID: 0}
+  requiredGearType: 0
+  actionVariety: 1
+  attackType: 2
+  responsibleSkill: 1
+  secondarySkill: 0
+  categorySkillCheck: 0
+  tagsForAI: []
