@@ -19,11 +19,11 @@ public class PlayableCharacter : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Mouse.current.leftButton.wasPressedThisFrame)
-        {
-            var target = CameraManager.instance.GetScreenPointWorld(Mouse.current.position.value);
-            agent.SetDestination(target);
-        }
+        //if (Mouse.current.leftButton.wasPressedThisFrame)
+        //{
+        //    var target = CameraManager.instance.GetScreenPointWorld(Mouse.current.position.value);
+        //    agent.SetDestination(target);
+        //}
     }
 
 
