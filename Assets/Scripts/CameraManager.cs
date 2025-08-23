@@ -6,14 +6,14 @@ public class CameraManager : MonoBehaviour
     private Camera cameraComponent;
 
     // raycast variables
-    private float screenToWorldRaycastDistance;
+    private float screenToWorldRaycastDistance = 100;
     private LayerMask terrainLayerMask;
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        if (!instance)
+        if (instance == null)
         {
             instance = this;
         }
